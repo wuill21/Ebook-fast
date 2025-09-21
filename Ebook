@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site Incrível</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Este é o meu primeiro site no GitHub Pages! Estou muito feliz!</p>
+    <p>Em breve vou personalizar muito mais.</p>
+</body>
+</html>
